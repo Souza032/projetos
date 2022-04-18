@@ -88,7 +88,7 @@ console.log()
      }}}
 
 
-    else if(respostas[0]==='sim'){
+   if(respostas[0]==='sim'){
    
     for (i=0; i<respostas.length ; i++ ){
 
